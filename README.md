@@ -30,3 +30,17 @@
   - with this, each student will get his own individually generated questions.
   - done through rlxeducode web, which will provide some proctored environemt (camera, etc.)
   -  
+
+
+## creating quiz questions
+
+> create 20 different quiz questions on the lab tasks in this page:
+  https://rramosp.github.io/ai4eng.v1/content/lab-02-01-python/
+
+  the questions must comply with the following:
+  - they must be designed to be answered in 30 seconds, asuming the student taking the quiz has done
+  the quiz himself and understands well each task ennunciation, its purspose and the code
+  - multiple choice with 4 choices
+  - the question statement and each choice must not have more than 10 words
+  - the questions must be either (1) about specifics of the python code solving the tasks or (2) about
+  details on question statement or (3) about details on the output of the python code solving the task
